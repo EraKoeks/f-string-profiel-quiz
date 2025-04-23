@@ -1,0 +1,22 @@
+✅ Wat je geleerd hebt met f-strings:
+
+1. Wat een f-string is
+   Ik weet nu dat een f-string begint met een f en dat je variabelen tussen {} kunt zetten om ze in een tekst te stoppen.
+
+2.  Hoe je f-strings gebruikt om zinnen te maken
+    In plaats van alles aan elkaar te plakken met +, heb ik geleerd hoe je één nette regel maakt met variabelen erin.
+
+3.  Invoer van gebruikers verwerken in zinnen
+    Ik leerde hoe je input() gebruikt en die gegevens combineert met een f-string.
+
+4.  F-strings maken je code overzichtelijker
+    Ik begrijp nu waarom f-strings handiger en leesbaarder zijn dan andere manieren van string formatting.
+
+5.  Getallen combineren met tekst
+    Ik heb geleerd dat je bij getallen eerst soms int() moet gebruiken, zodat je ermee kunt rekenen vóór je ze in een f-string zet.
+
+6.  Een mini-project bouwen (quiz/profiel)
+    Ik heb een echt werkend programma gemaakt dat een profiel weergeeft – helemaal met mijn eigen input!
+
+7.  Taalgevoel en netheid in code
+    Ik heb geoefend met netjes schrijven, zoals hoofdletters, leestekens, emoji's en lay-out in je tekstoutput.
